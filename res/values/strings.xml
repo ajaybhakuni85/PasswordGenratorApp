@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PasswordGenrator</string>
+    <string name="genratedpassword">GenratedPassword</string>
+    <string name="button">Button</string>
+</resources>
